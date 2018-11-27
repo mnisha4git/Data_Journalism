@@ -12,7 +12,7 @@ CDN (Content Delivery Networks) links for d3.js , d3-tip.js and Bootstrap are in
 
 ## Tools/languages/Libraries
 
-HTML
-D3 Java Script
-d3-tip Java Script
-Bootstrap
+### HTML
+### D3 Java Script
+### d3-tip Java Script
+### Bootstrap
